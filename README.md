@@ -5,6 +5,15 @@
 I’m a BCA student passionate about **Web Development, Python, Data Analytics and AI/ML**.  
 I love learning by building real-world projects and continuously improving my skills. 🚀
 
+
+ ---
+ ## 🤝 Connect with Me
+
+- 💼 LinkedIn: [Aditya Kumar Jha](https://www.linkedin.com/in/aditya-kumar-jha-b225723a8)
+- 📸 Instagram: [@aditya2007__](https://www.instagram.com/aditya2007__/)
+- ✈️ Telegram: [@aditya12050811](https://t.me/aditya12050811)
+- 📘 Facebook: [Aditya Jha (Adi)](https://www.facebook.com/share/1StSNDansF/)
+- 📧 Email: jhaa47531@gmail.com
 ---
 
 ## 🛠️ Tech Stack
